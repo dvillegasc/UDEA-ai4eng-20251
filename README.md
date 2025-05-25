@@ -15,4 +15,4 @@
   1000919392
   Ingenieria Industrial
 
-  ## Enlace del video de la entrega 2: https://youtu.be/UTHoMth_AZo?si=tzcC3Ny_FZBp4CFU 
+  ## Video de la entrega 2: https://youtu.be/UTHoMth_AZo?si=tzcC3Ny_FZBp4CFU 
