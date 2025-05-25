@@ -1,6 +1,6 @@
 # UDEA-ai4eng-20251
 
-# Entrega 1
+# Entrega 2
 
 ## Integrantes del equipo
 - David Villegas Ceballos
@@ -14,3 +14,5 @@
 - Sara Melissa Villada Castro
   1000919392
   Ingenieria Industrial
+
+  ## Enlace del video:
