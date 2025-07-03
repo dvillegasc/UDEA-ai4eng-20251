@@ -16,4 +16,4 @@
   Ingenieria Industrial
 
   ## Video de la entrega 2: https://youtu.be/UTHoMth_AZo?si=tzcC3Ny_FZBp4CFU
-  ## Video de la entrega 3: 
+  ## Video de la entrega 3: https://youtu.be/RZhQ1P1Oa-Q?si=R_zQF5jaCFlropi5
